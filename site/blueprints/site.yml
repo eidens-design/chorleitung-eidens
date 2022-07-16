@@ -1,0 +1,7 @@
+title: Website
+
+tabs:
+  pages:
+    extends: tabs/pages
+  menus:
+    extends: tabs/navigation

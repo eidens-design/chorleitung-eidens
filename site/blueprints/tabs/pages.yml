@@ -1,0 +1,29 @@
+icon: text
+label:
+  en: Pages
+  de: Seiten
+sections:
+  drafts:
+    headline: 
+      en: Drafts
+      de: Entwürfe
+    type: pages
+    status: draft
+    image:
+      query: false
+  unlisted:
+    headline:
+      en: Unlisted
+      de: Nicht veröffentlicht
+    type: pages
+    status: unlisted
+    image:
+      query: false
+  listed:
+    headline: 
+      en: Listed
+      de: Veröffentlicht
+    type: pages
+    status: listed
+    image:
+      query: false

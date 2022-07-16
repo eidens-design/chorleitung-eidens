@@ -1,0 +1,14 @@
+icon: text
+label: navigation
+fields:
+  menus:
+    type: structure
+    label:
+      en: Menus
+      de: Menüs
+    fields:
+      menuLink:
+        type: link
+        label: 
+          en: Link
+          de: Link

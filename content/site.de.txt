@@ -1,0 +1,3 @@
+Title: Kirby CMS - Starter Template
+
+----
